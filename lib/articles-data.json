@@ -1,0 +1,211 @@
+[
+  {
+    "week": 0,
+    "publishDate": "2026-01-04",
+    "date": "Jan 4, 2026",
+    "readTime": "6 min",
+    "slug": "opening-welcome",
+    "title": "Welcome to SundAI Motivation. Here's Why This Series Exists.",
+    "label": "SundAI Motivation, The Beginning",
+    "description": "AI is moving faster than any technology in business history. Most leaders know it matters. Very few know what to do about it. That changes today.",
+    "image": "/assets/headers/opening-welcome.jpg"
+  },
+  {
+    "week": 1,
+    "publishDate": "2026-01-11",
+    "date": "Jan 11, 2026",
+    "readTime": "7 min",
+    "slug": "week01-speed-of-ai",
+    "title": "AI Is Moving at the Speed of Light. Here's What That Actually Means for Your Business.",
+    "label": "SundAI Motivation, Week 1",
+    "description": "The most dangerous thing you can do right now is assume the AI landscape looks the same as it did six months ago.",
+    "image": "/assets/headers/week01-speed-of-ai.jpg"
+  },
+  {
+    "week": 2,
+    "publishDate": "2026-01-18",
+    "date": "Jan 18, 2026",
+    "readTime": "8 min",
+    "slug": "week02-ambition-execution-gap",
+    "title": "Everyone Says They're \"Doing AI.\" Almost Nobody Is Doing It Well.",
+    "label": "SundAI Motivation, Week 2",
+    "description": "88% of business leaders say they're using AI. Only 1% say they're doing it well. That gap is the most important number in business right now.",
+    "image": "/assets/headers/week02-ambition-execution-gap.jpg"
+  },
+  {
+    "week": 3,
+    "publishDate": "2026-01-25",
+    "date": "Jan 25, 2026",
+    "readTime": "7 min",
+    "slug": "week03-shadow-ai",
+    "title": "Your Employees Are Already Using AI. Most of Them Aren't Telling You.",
+    "label": "SundAI Motivation, Week 3",
+    "description": "Right now, while you're reading this, someone on your team is using an AI tool that isn't on your approved software list. They're not doing it to cause...",
+    "image": "/assets/headers/week03-shadow-ai.jpg"
+  },
+  {
+    "week": 4,
+    "publishDate": "2026-02-01",
+    "date": "Feb 1, 2026",
+    "readTime": "8 min",
+    "slug": "week04-ceo-fear",
+    "title": "74% of CEOs Are Terrified of AI. Here's What the Other 26% Figured Out.",
+    "label": "SundAI Motivation, Week 4",
+    "description": "In the last 12 months, CEO confidence in AI dropped from 82% to 49%. That's not a blip. That's a crisis of direction, and it has a solution.",
+    "image": "/assets/headers/week04-ceo-fear.jpg"
+  },
+  {
+    "week": 5,
+    "publishDate": "2026-02-08",
+    "date": "Feb 8, 2026",
+    "readTime": "9 min",
+    "slug": "week05-winners-losers",
+    "title": "The Companies Getting AI Right, and the Ones Getting Left Behind",
+    "label": "SundAI Motivation, Week 5",
+    "description": "Here is a tale of two companies. Same industry. Same moment in time. Same clients, same geography, same macroeconomic headwinds. One is growing. The other...",
+    "image": "/assets/headers/week05-winners-losers.jpg"
+  },
+  {
+    "week": 6,
+    "publishDate": "2026-02-15",
+    "date": "Feb 15, 2026",
+    "readTime": "7 min",
+    "slug": "week06-team-resistance",
+    "title": "The Biggest Threat to Your AI Strategy Isn't Technology. It's Your Own Team.",
+    "label": "SundAI Motivation, Week 6",
+    "description": "I want to share a number that stopped me when I first saw it. 41%. That's the share of Millennial and Gen Z employees who admit, in anonymous surveys, to...",
+    "image": "/assets/headers/week06-team-resistance.jpg"
+  },
+  {
+    "week": 7,
+    "publishDate": "2026-02-22",
+    "date": "Feb 22, 2026",
+    "readTime": "8 min",
+    "slug": "week07-first-steps",
+    "title": "Your First Week of Taking AI Seriously: A Day-by-Day Guide",
+    "label": "SundAI Motivation, Week 7",
+    "description": "Every week I get some version of the same message. It comes from CEOs running €500M businesses. From CFOs at global banks. From CMOs with 200-person...",
+    "image": "/assets/headers/week07-first-steps.jpg"
+  },
+  {
+    "week": 8,
+    "publishDate": "2026-03-01",
+    "date": "Mar 1, 2026",
+    "readTime": "7 min",
+    "slug": "week08-smart-starting-point",
+    "title": "You Don't Need a Huge Budget to Start. You Need a Smart Starting Point.",
+    "label": "SundAI Motivation, Week 8",
+    "description": "Two companies. Two AI investments. Two outcomes. Company A spent $85,000 on an AI-powered customer support system. Result: 62% of support issues now...",
+    "image": "/assets/headers/week08-smart-starting-point.jpg"
+  },
+  {
+    "week": 9,
+    "publishDate": "2026-03-08",
+    "date": "Mar 8, 2026",
+    "readTime": "8 min",
+    "slug": "week09-proving-roi",
+    "title": "How to Prove AI ROI to Your Board, Without the Buzzwords",
+    "label": "SundAI Motivation, Week 9",
+    "description": "Only 14% of CFOs say they can clearly demonstrate the business impact of their AI investments. But among the 14% who are tracking it properly? 77% report...",
+    "image": "/assets/headers/week09-proving-roi.jpg"
+  },
+  {
+    "week": 10,
+    "publishDate": "2026-03-15",
+    "date": "Mar 15, 2026",
+    "readTime": "7 min",
+    "slug": "week10-human-plus-ai",
+    "title": "AI Won't Replace Leaders. But Leaders Who Use AI Will Replace Those Who Don't.",
+    "label": "SundAI Motivation, Week 10",
+    "description": "This week I want to address the fear that no one in the C-suite is saying out loud, but almost everyone is feeling. \"Is AI coming for my job?\" The honest...",
+    "image": "/assets/headers/week10-human-plus-ai.jpg"
+  },
+  {
+    "week": 11,
+    "publishDate": "2026-03-22",
+    "date": "Mar 22, 2026",
+    "readTime": "8 min",
+    "slug": "week11-culture-transformation",
+    "title": "How to Bring Your Whole Company Along, Without Breaking Your Culture",
+    "label": "SundAI Motivation, Week 11",
+    "description": "This week I want to talk about the thing that kills more AI transformations than bad technology, bad timing, or bad vendors combined. Culture.",
+    "image": "/assets/headers/week11-culture-transformation.jpg"
+  },
+  {
+    "week": 12,
+    "publishDate": "2026-03-29",
+    "date": "Mar 29, 2026",
+    "readTime": "7 min",
+    "slug": "week12-perfect-timing",
+    "title": "It's Not Too Late. In Fact, the Timing Has Never Been Better.",
+    "label": "SundAI Motivation, Week 12",
+    "description": "Twelve weeks ago, I started writing these Sunday letters because I was tired of watching brilliant business leaders feel left behind by a conversation...",
+    "image": "/assets/headers/week12-perfect-timing.jpg"
+  },
+  {
+    "week": 13,
+    "publishDate": "2026-04-11",
+    "date": "Apr 12, 2026",
+    "readTime": "8 min",
+    "slug": "week13-agents-hiring-humans",
+    "title": "AI Agents Are Now Hiring Humans. Yes, You Read That Right.",
+    "label": "SundAI Motivation, Week 13",
+    "description": "For decades, the fear has been the same: AI will take our jobs. But in the last sixty days, something happened that nobody predicted. AI started creating...",
+    "image": "/assets/headers/week13-agents-hiring-humans.jpg"
+  },
+  {
+    "week": 14,
+    "publishDate": "2026-04-17",
+    "date": "Apr 19, 2026",
+    "readTime": "7 min",
+    "slug": "week14-design-systems",
+    "title": "Figma Lost 7%. Here's Why Design Systems Just Became Your Most Valuable Asset.",
+    "label": "SundAI Motivation, Week 14",
+    "description": "Everyone is reading this as \"AI came for designers.\" That is not the story. The story is that your design system just became the highest-leverage asset in...",
+    "image": "/assets/headers/week14-design-systems.jpg"
+  },
+  {
+    "week": 16,
+    "publishDate": "2026-05-02",
+    "date": "May 3, 2026",
+    "readTime": "8 min",
+    "slug": "week16-ceo-tiny-desk",
+    "title": "The CEO at the Tiny Desk: Why Every Executive Needs to Become an AI Practitioner.",
+    "label": "SundAI Motivation, Week 16",
+    "description": "Two executives I coach did something unusual last month. One is a CMO at a Fortune 500 CPG company. The other is a COO at a mid-market SaaS firm. Neither...",
+    "image": "/assets/headers/week16-ceo-tiny-desk.jpg"
+  },
+  {
+    "week": 17,
+    "publishDate": "2026-05-30",
+    "date": "May 31, 2026",
+    "readTime": "6 min",
+    "slug": "week17-effort-control",
+    "title": "Stop Thinking So Hard (You're Doing It Backwards)",
+    "label": "SundAI Motivation, Week 17",
+    "description": "This week, an AI learned to decide how hard to think. Low. High. Max. Not what to think -- that ship sailed years ago. How hard. And watching it triage...",
+    "image": "/assets/headers/week17-effort-control.jpg"
+  },
+  {
+    "week": 18,
+    "publishDate": "2026-06-14",
+    "date": "Jun 14, 2026",
+    "readTime": "8 min",
+    "slug": "week18-fable-brief-bottleneck",
+    "title": "The Brief Is the Bottleneck",
+    "label": "SundAI Motivation, Week 18",
+    "description": "On Tuesday, Anthropic shipped Claude Fable 5, the first \"Mythos-class\" model anyone can actually use. Everyone is debating the benchmarks. They're...",
+    "image": "/assets/headers/week18-fable-brief-bottleneck.jpg"
+  },
+  {
+    "week": 19,
+    "publishDate": "2026-06-27",
+    "date": "Jun 28, 2026",
+    "readTime": "8 min",
+    "slug": "week18-manager-of-agents",
+    "title": "Your AI Team Has More Members Than You Think: Why Every Person Is Now a Manager of Agents.",
+    "label": "SundAI Motivation, Week 19",
+    "description": "You started with one chatbot. Six months later, you have a research agent, a writing agent, a coding agent, a data agent, and something you don't have a...",
+    "image": "/assets/headers/week18-manager-of-agents.jpg"
+  }
+]

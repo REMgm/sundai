@@ -1,7 +1,11 @@
 import type { NextConfig } from "next";
+import redirects from "./lib/redirects.json";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    // Permanent redirects from every legacy .html path (link equity migration).
+    return redirects;
+  },
 };
 
 export default nextConfig;

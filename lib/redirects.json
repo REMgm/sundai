@@ -1,0 +1,197 @@
+[
+  {
+    "source": "/index.html",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/articles/opening-welcome.html",
+    "destination": "/articles/opening-welcome",
+    "permanent": true
+  },
+  {
+    "source": "/opening-welcome.html",
+    "destination": "/articles/opening-welcome",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week01-speed-of-ai.html",
+    "destination": "/articles/week01-speed-of-ai",
+    "permanent": true
+  },
+  {
+    "source": "/week01-speed-of-ai.html",
+    "destination": "/articles/week01-speed-of-ai",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week02-ambition-execution-gap.html",
+    "destination": "/articles/week02-ambition-execution-gap",
+    "permanent": true
+  },
+  {
+    "source": "/week02-ambition-execution-gap.html",
+    "destination": "/articles/week02-ambition-execution-gap",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week03-shadow-ai.html",
+    "destination": "/articles/week03-shadow-ai",
+    "permanent": true
+  },
+  {
+    "source": "/week03-shadow-ai.html",
+    "destination": "/articles/week03-shadow-ai",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week04-ceo-fear.html",
+    "destination": "/articles/week04-ceo-fear",
+    "permanent": true
+  },
+  {
+    "source": "/week04-ceo-fear.html",
+    "destination": "/articles/week04-ceo-fear",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week05-winners-losers.html",
+    "destination": "/articles/week05-winners-losers",
+    "permanent": true
+  },
+  {
+    "source": "/week05-winners-losers.html",
+    "destination": "/articles/week05-winners-losers",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week06-team-resistance.html",
+    "destination": "/articles/week06-team-resistance",
+    "permanent": true
+  },
+  {
+    "source": "/week06-team-resistance.html",
+    "destination": "/articles/week06-team-resistance",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week07-first-steps.html",
+    "destination": "/articles/week07-first-steps",
+    "permanent": true
+  },
+  {
+    "source": "/week07-first-steps.html",
+    "destination": "/articles/week07-first-steps",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week08-smart-starting-point.html",
+    "destination": "/articles/week08-smart-starting-point",
+    "permanent": true
+  },
+  {
+    "source": "/week08-smart-starting-point.html",
+    "destination": "/articles/week08-smart-starting-point",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week09-proving-roi.html",
+    "destination": "/articles/week09-proving-roi",
+    "permanent": true
+  },
+  {
+    "source": "/week09-proving-roi.html",
+    "destination": "/articles/week09-proving-roi",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week10-human-plus-ai.html",
+    "destination": "/articles/week10-human-plus-ai",
+    "permanent": true
+  },
+  {
+    "source": "/week10-human-plus-ai.html",
+    "destination": "/articles/week10-human-plus-ai",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week11-culture-transformation.html",
+    "destination": "/articles/week11-culture-transformation",
+    "permanent": true
+  },
+  {
+    "source": "/week11-culture-transformation.html",
+    "destination": "/articles/week11-culture-transformation",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week12-perfect-timing.html",
+    "destination": "/articles/week12-perfect-timing",
+    "permanent": true
+  },
+  {
+    "source": "/week12-perfect-timing.html",
+    "destination": "/articles/week12-perfect-timing",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week13-agents-hiring-humans.html",
+    "destination": "/articles/week13-agents-hiring-humans",
+    "permanent": true
+  },
+  {
+    "source": "/week13-agents-hiring-humans.html",
+    "destination": "/articles/week13-agents-hiring-humans",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week14-design-systems.html",
+    "destination": "/articles/week14-design-systems",
+    "permanent": true
+  },
+  {
+    "source": "/week14-design-systems.html",
+    "destination": "/articles/week14-design-systems",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week16-ceo-tiny-desk.html",
+    "destination": "/articles/week16-ceo-tiny-desk",
+    "permanent": true
+  },
+  {
+    "source": "/week16-ceo-tiny-desk.html",
+    "destination": "/articles/week16-ceo-tiny-desk",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week17-effort-control.html",
+    "destination": "/articles/week17-effort-control",
+    "permanent": true
+  },
+  {
+    "source": "/week17-effort-control.html",
+    "destination": "/articles/week17-effort-control",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week18-fable-brief-bottleneck.html",
+    "destination": "/articles/week18-fable-brief-bottleneck",
+    "permanent": true
+  },
+  {
+    "source": "/week18-fable-brief-bottleneck.html",
+    "destination": "/articles/week18-fable-brief-bottleneck",
+    "permanent": true
+  },
+  {
+    "source": "/articles/week18-manager-of-agents.html",
+    "destination": "/articles/week18-manager-of-agents",
+    "permanent": true
+  },
+  {
+    "source": "/week18-manager-of-agents.html",
+    "destination": "/articles/week18-manager-of-agents",
+    "permanent": true
+  }
+]
